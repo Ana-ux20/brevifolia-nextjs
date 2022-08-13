@@ -3,8 +3,9 @@ label: Hello
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: Try_this
+  label: trip
+  description: "<strong>Lala land</strong>"
 - type: text
   name: author
   label: author
