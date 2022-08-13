@@ -6,12 +6,12 @@ fields:
   name: Try_this
   label: trip
   description: "<strong>Lala land</strong>"
-- type: text
-  name: author
-  label: author
 - type: datetime
   name: date
   label: date
 - type: file
   name: hero_image
   label: hero_image
+- type: text
+  name: author
+  label: author
